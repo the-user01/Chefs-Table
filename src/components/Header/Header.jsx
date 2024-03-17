@@ -20,7 +20,7 @@ const Header = () => {
                                 <li><a>Search</a></li>
                             </ul>
                         </div>
-                        <a className="btn btn-ghost text-xl">daisyUI</a>
+                        <a className="btn btn-ghost text-xl">Chef&apos;s Table</a>
                     </div>
                     <div className="navbar-center hidden lg:flex">
                         <ul className="menu menu-horizontal px-1">
@@ -35,7 +35,7 @@ const Header = () => {
                             <input type="text" placeholder="Search" className="input input-bordered w-24 md:w-auto" />
                         </div>
                         <div className="ml-2">
-                            <a className="btn">Button</a>
+                            <img className='btn' src="../../assets/boy2.png" alt="" />
                         </div>
                     </div>
                 </div>
