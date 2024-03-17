@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "img": "../src/assets/1.jpg",
+      "img": "https://i.ibb.co/R6rX4pP/1.jpg",
       "title": "Spaghetti Carbonara",
       "description": "Classic Italian pasta dish with a creamy sauce made of eggs, cheese, and pancetta.",
       "ingredients": ["spaghetti", "eggs", "pecorino cheese", "pancetta", "black pepper", "olive oil"],
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "img": "../src/assets/2.jpg",
+      "img": "https://i.ibb.co/WFTTb8p/2.jpg",
       "title": "Chicken Caesar Salad",
       "description": "A refreshing salad made with grilled chicken, crisp lettuce, croutons, and Caesar dressing.",
       "ingredients": ["chicken breast", "romaine lettuce", "parmesan cheese", "croutons", "Caesar dressing", "lemon"],
@@ -19,7 +19,7 @@
     },
     {
       "id": 3,
-      "img": "../src/assets/10.jpg",
+      "img": "https://i.ibb.co/gTCK3fv/3.jpg",
       "title": "Beef Stir-Fry",
       "description": "Quick and flavorful stir-fry with tender beef, colorful vegetables, and savory sauce.",
       "ingredients": ["beef sirloin", "bell peppers", "broccoli", "carrots", "soy sauce", "garlic"],
@@ -28,7 +28,7 @@
     },
     {
       "id": 4,
-      "img": "../src/assets/3.jpg",
+      "img": "https://i.ibb.co/nBm1q7j/4.jpg",
       "title": "Vegetable Curry",
       "description": "Aromatic and spicy curry loaded with assorted vegetables, served with fluffy rice.",
       "ingredients": ["potatoes", "carrots", "cauliflower", "onion", "coconut milk", "curry powder"],
@@ -37,7 +37,7 @@
     },
     {
       "id": 5,
-      "img": "../src/assets/4.jpg",
+      "img": "https://i.ibb.co/L8ndLTZ/5.jpg",
       "title": "Caprese Salad",
       "description": "Simple and elegant salad with fresh tomatoes, mozzarella cheese, basil, and balsamic glaze.",
       "ingredients": ["tomatoes", "mozzarella cheese", "fresh basil", "balsamic vinegar", "olive oil", "salt"],
@@ -46,7 +46,7 @@
     },
     {
       "id": 6,
-      "img": "../src/assets/5.jpg",
+      "img": "https://i.ibb.co/RNYbX5w/6.jpg",
       "title": "Grilled Salmon",
       "description": "Juicy salmon fillets seasoned with herbs and grilled to perfection.",
       "ingredients": ["salmon fillets", "lemon", "olive oil", "garlic", "dill", "salt"],
@@ -55,7 +55,7 @@
     },
     {
       "id": 7,
-      "img": "../src/assets/6.jpg",
+      "img": "https://i.ibb.co/sCVNq2V/7.jpg",
       "title": "Mushroom Risotto",
       "description": "Creamy and comforting risotto packed with earthy mushrooms and parmesan cheese.",
       "ingredients": ["Arborio rice", "mushrooms", "chicken broth", "white wine", "onion", "parmesan cheese"],
@@ -64,7 +64,7 @@
     },
     {
       "id": 8,
-      "img": "../src/assets/7.jpg",
+      "img": "https://i.ibb.co/vQqLx6w/8.jpg",
       "title": "Greek Salad",
       "description": "Fresh and vibrant salad featuring tomatoes, cucumbers, olives, feta cheese, and a zesty dressing.",
       "ingredients": ["tomatoes", "cucumbers", "kalamata olives", "feta cheese", "red onion", "olive oil"],
@@ -73,7 +73,7 @@
     },
     {
       "id": 9,
-      "img": "../src/assets/8.jpg",
+      "img": "https://i.ibb.co/bgLCZJk/9.jpg",
       "title": "Beef Tacos",
       "description": "Tasty tacos filled with seasoned beef, lettuce, cheese, salsa, and sour cream.",
       "ingredients": ["ground beef", "taco shells", "lettuce", "cheddar cheese", "salsa", "sour cream"],
@@ -82,7 +82,7 @@
     },
     {
       "id": 10,
-      "img": "../src/assets/9.jpg",
+      "img": "https://i.ibb.co/Y0HFnS7/10.jpg",
       "title": "Vegetable Quinoa Bowl",
       "description": "Nutritious quinoa bowl loaded with colorful vegetables and drizzled with tahini sauce.",
       "ingredients": ["quinoa", "bell peppers", "zucchini", "cherry tomatoes", "avocado", "tahini"],

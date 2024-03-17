@@ -35,7 +35,9 @@ const Header = () => {
                             <input type="text" placeholder="Search" className="input input-bordered w-24 md:w-auto" />
                         </div>
                         <div className="ml-2">
-                            <img className='btn' src="../../assets/boy2.png" alt="" />
+                            <div className="w-10 rounded-full">
+                                <img alt="Tailwind CSS Navbar component" src="https://i.ibb.co/M7HFB6t/profile.png" />
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -44,13 +46,13 @@ const Header = () => {
             {/* Main Banner */}
 
             <main>
-                <div className="hero mt-12 rounded-xl" style={{ backgroundImage: "url("+ bg +")" }}>
+                <div className="hero lg:h-[600px] mt-12 rounded-xl" style={{ backgroundImage: "url(" + bg + ")" }}>
                     <div></div>
                     <div className="hero-overlay bg-opacity-10 rounded-xl"></div>
                     <div className="hero-content text-center text-neutral-content">
                         <div className="max-w-md">
-                            <h1 className="mb-5 text-4xl font-bold">Discover an exceptional cooking class tailored for you!</h1>
-                            <p className="mb-5">Get amazing coocking and delicious flavour from us</p>
+                            <h1 className="mb-5 text-xl lg:text-4xl font-bold">Discover an exceptional cooking class tailored for you!</h1>
+                            <p className="mb-5 text-base lg:text-lg">Get amazing coocking and delicious flavour from us</p>
                             <button className="btn bg-[#0BE58A] text-[#150B2B] rounded-full">Explore Now</button>
                             <button className="btn bg-[transparent] text-white rounded-full ml-8">Our FeedBack</button>
                         </div>

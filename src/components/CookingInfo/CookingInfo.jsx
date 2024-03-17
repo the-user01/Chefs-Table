@@ -31,8 +31,8 @@ const CookingInfo = (props) => {
                             <tbody>
 
                                 {
-                                    cookItem.map(item => <tr key={item.id}>
-                                        <th>1</th>
+                                    cookItem.map((item, idx) => <tr key={item.id}>
+                                        <th>{idx+1}</th>
                                         <td>{item.title}</td>
                                         <td>{item.cook_time} <br /> minutes</td>
                                         <td>{item.calories} <br /> calories</td>
@@ -73,8 +73,8 @@ const CookingInfo = (props) => {
                             <tbody>
                                 {/* row 1 */}
                                 {
-                                    prepareItem.map(item => <tr key={item.id}>
-                                        <th>1</th>
+                                    prepareItem.map((item, idx) => <tr key={item.id}>
+                                        <th>{idx+1}</th>
                                         <td>{item.title}</td>
                                         <td>{item.cook_time} <br /> minutes</td>
                                         <td>{item.calories} <br /> calories</td></tr>)
@@ -88,15 +88,6 @@ const CookingInfo = (props) => {
 
             </div>
             
-            <div className="flex justify-end mt-4 gap-6">
-                <div>
-                    <p className="font-bold">Total Time =<br /> {} minutes</p>
-                </div>
-                <div>
-                    <p className="font-bold">Total Calories =<br /> {} calories</p>
-                </div>
-            </div>
-
         </div>
     );
 };
